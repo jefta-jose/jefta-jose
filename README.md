@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jefta-jose</h1>
+<h1 align="center">Hi 👋, I'm Jeff Ndegwa</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefta-jose&label=Profile%20views&color=0e75b6&style=flat" alt="jefta-jose" /> </p>
