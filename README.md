@@ -49,10 +49,13 @@ The satisfaction of witnessing my code output exactly as intended is the kind of
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="margin: 10px;">
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" style="margin: 10px;">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin: 10px;">
+
 </div>
 
 
 ### GitHub Shenanigans:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefta-jose&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jefta-jose&show_icons=true&locale=en&theme=dark)
-
