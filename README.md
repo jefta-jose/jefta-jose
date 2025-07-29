@@ -1,53 +1,58 @@
-# Howdy! 👋 I'm Jeff Ndegwa
-### A frontend wizard hailing from the heart of Kenya 🦁
+---
 
-Before you get to know me, let me share a developer's classic humor: What did the developer say to the coffee machine? "Hey there, I've got Java running, do you?" 😄
+# 👋 Hey, I'm Jeff Ndegwa
 
-Now, back to business - I'm Jeff Ndegwa, and I'm more than just a developer; I'm a coding maestro. I derive genuine joy from seeing lines of code come together like a symphony of logic and creativity. It's not just a job; it's a passion project where pixels meet purpose.
+### DevOps Engineer & Full-Stack Developer | Automating the future from Kenya 🇰🇪
 
-Debugging is my meditation, and turning coffee into code is practically an art form. If coding were a sport, I'd be the Lionel Messi of HTML and the Cristiano Ronaldo of CSS. Embracing the chaos of JavaScript is my daily workout routine.
+> "Why did the DevOps engineer go broke? Because he couldn't stop caching!"
 
-The satisfaction of witnessing my code output exactly as intended is the kind of victory that keeps me fueled for the next challenge. Join me in making the web a better place, one meticulously crafted line at a time.
+---
 
+I'm Jeff — a cloud-native enthusiast who thrives on building resilient, scalable, and observable systems. Over the past 1.6+ years, I’ve worn multiple hats across development and DevOps, giving me a solid grasp of how to deliver high-impact software and infrastructure solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=jefta-jose&label=Profile%20views&color=0e75b6&style=flat)
+My sweet spot is at the intersection of software engineering and operations — helping teams ship faster, safer, and smarter using automation, CI/CD, and cloud infrastructure.
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jefta-jose&theme=gruvbox)
+From writing clean React components to provisioning cloud-native architectures with Terraform and Kubernetes, I’m all about driving efficiency and reliability across the stack.
 
-- 🔭 Currently wrangling with **Full Stack Applications**
-- 🌱 Planting seeds of wisdom in **React, Node.js, and Express**
-- 💬 Wanna chat? Hit me up about **HTML, CSS, JavaScript, React, Node.js, or Express**
-- 📫 Drop me a line at [ndegwajeff4@gmail.com](mailto:ndegwajeff4@gmail.com)
+---
 
-### Languages and Tools:
+### 🛠️ What I'm Doing Now:
+
+* 🚀 Automating application deployments with **Helm**, **Argo CD**, and **GitHub Actions**
+* 🧱 Building and managing Kubernetes clusters using **RKE2**, **Kind**, and **Docker Desktop**
+* 🌩️ Leveraging **AWS** and **Azure** for cloud infrastructure
+* 🎯 Using **Grafana**, **Prometheus**, and **Alertmanager** to monitor and alert with precision
+* ⚙️ Writing Terraform modules for DRY, scalable multi-environment setups
+
+---
+
+### 🧰 Tech Stack & Tools:
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="40" height="40" style="margin: 10px;">
+
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 10px;">
-  
+
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="margin: 10px;">
+
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" style="margin: 10px;">
+
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40" style="margin: 10px;">
+
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40" style="margin: 10px;">
+
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" style="margin: 10px;">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin: 10px;">
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" style="margin: 10px;">
-  
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="margin: 10px;">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" style="margin: 10px;">
 
@@ -55,7 +60,11 @@ The satisfaction of witnessing my code output exactly as intended is the kind of
 
 </div>
 
+---
 
-### GitHub Shenanigans:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jefta-jose&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jefta-jose&show_icons=true&locale=en&theme=dark)
+### 📫 Reach Out
+
+* Email: [ndegwajeff4@gmail.com](mailto:ndegwajeff4@gmail.com)
+* LinkedIn: [linkedin.com/in/jefta-jose](https://www.linkedin.com/in/jeff-ndegwa-801593219/)
+* GitHub: [jefta-jose](https://github.com/jefta-jose)
+---
