@@ -7,7 +7,7 @@
 
 ---
 
-I'm Jeff — a cloud-native enthusiast who thrives on building resilient, scalable, and observable systems. Over the past 1.6+ years, I’ve worn multiple hats across development and DevOps, giving me a solid grasp of how to deliver high-impact software and infrastructure solutions.
+I'm a cloud-native enthusiast who thrives on building resilient, scalable, and observable systems. Over the past 1.6+ years, I’ve worn multiple hats across development and DevOps, giving me a solid grasp of how to deliver high-impact software and infrastructure solutions.
 
 My sweet spot is at the intersection of software engineering and operations — helping teams ship faster, safer, and smarter using automation, CI/CD, and cloud infrastructure.
 
