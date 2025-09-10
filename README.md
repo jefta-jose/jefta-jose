@@ -7,7 +7,8 @@
 
 ---
 
-I'm a cloud-native enthusiast who thrives on building resilient, scalable, and observable systems. Over the past 1.6+ years, I’ve worn multiple hats across development and DevOps, giving me a solid grasp of how to deliver high-impact software and infrastructure solutions.
+I'm a cloud-native enthusiast who thrives on building resilient, scalable, and observable systems. 
+I’ve worn multiple hats across development and DevOps, giving me a solid grasp of how to deliver high-impact software and infrastructure solutions.
 
 My sweet spot is at the intersection of software engineering and operations — helping teams ship faster, safer, and smarter using automation, CI/CD, and cloud infrastructure.
 
@@ -18,10 +19,11 @@ From writing clean React components to provisioning cloud-native architectures w
 ### 🛠️ What I'm Doing Now:
 
 * 🚀 Automating application deployments with **Helm**, **Argo CD**, and **GitHub Actions**
-* 🧱 Building and managing Kubernetes clusters using **RKE2**, **Kind**, and **Docker Desktop**
+* 🧱 Building and managing Kubernetes clusters using **RKE2**
 * 🌩️ Leveraging **AWS** and **Azure** for cloud infrastructure
 * 🎯 Using **Grafana**, **Prometheus**, and **Alertmanager** to monitor and alert with precision
 * ⚙️ Writing Terraform modules for DRY, scalable multi-environment setups
+* Implementing security best practises around secrets rotation, AWS IAM management, GitHub memebership management
 
 ---
 
