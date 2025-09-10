@@ -3,7 +3,7 @@
 
 ### DevOps Engineer & Full-Stack Developer | Automating the future from Kenya
 
-> "Why did the DevOps engineer go broke? Because he couldn't stop caching!"
+> "what do you call two mexicans playing basketball? juan-on-juan"
 
 ---
 
