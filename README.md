@@ -1,71 +1,143 @@
-
 # 👋 Hey, I'm Jeff Ndegwa
 
-### DevOps Engineer & Full-Stack Developer | Automating the future from Kenya
+### Senior DevOps Engineer | Cloud-Native Architect | Automating Systems from Kenya
 
-> "what do you call two mexicans playing basketball? juan-on-juan"
-
----
-
-I'm a cloud-native enthusiast who thrives on building resilient, scalable, and observable systems. 
-I’ve worn multiple hats across development and DevOps, giving me a solid grasp of how to deliver high-impact software and infrastructure solutions.
-
-My sweet spot is at the intersection of software engineering and operations — helping teams ship faster, safer, and smarter using automation, CI/CD, and cloud infrastructure.
-
-From writing clean React components to provisioning cloud-native architectures with Terraform and Kubernetes, I’m all about driving efficiency and reliability across the stack.
+> "What do you call two Mexicans playing basketball? Juan-on-juan."
 
 ---
 
-### 🛠️ What I'm Doing Now:
+## 🚀 Professional Summary
 
-* 🚀 Automating application deployments with **Helm**, **Argo CD**, and **GitHub Actions**
-* 🧱 Building and managing Kubernetes clusters using **RKE2**
-* 🌩️ Leveraging **AWS** and **Azure** for cloud infrastructure
-* 🎯 Using **Grafana**, **Prometheus**, and **Alertmanager** to monitor and alert with precision
-* ⚙️ Writing Terraform modules for DRY, scalable multi-environment setups
-* Implementing security best practises around secrets rotation, AWS IAM management, GitHub memebership management
+Results-oriented **DevOps Engineer with 5+ years of experience** designing, automating, and scaling cloud-native infrastructure across **AWS, Azure, and Google Cloud**.
 
----
+I specialize in building **reliable, secure, and cost-efficient systems** using Infrastructure as Code, Kubernetes, and CI/CD automation.
 
-### 🧰 Tech Stack & Tools:
+Beyond DevOps, I bring strong **full-stack engineering (Python, JavaScript, .NET, Go)** and **AI-driven automation experience**, enabling me to connect application design with production-grade infrastructure.
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" style="margin: 10px;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin: 10px;">
-
-</div>
+Key impact areas:
+- ⚡ Reduced cloud costs by up to **60%**
+- 🚀 Improved deployment speed and reliability by **90%**
+- 📈 Increased system uptime by **50%**
+- 🤖 Built AI-assisted automation and observability systems
 
 ---
 
-### 📫 Reach Out
+## 🛠️ What I'm Doing Now
 
-* Email: [ndegwajeff4@gmail.com](mailto:ndegwajeff4@gmail.com)
-* LinkedIn: [linkedin.com/in/jefta-jose](https://www.linkedin.com/in/jeff-ndegwa-801593219/)
-* GitHub: [jefta-jose](https://github.com/jefta-jose)
+- 🚀 Building GitOps-driven deployments using **Argo CD + Helm**
+- 🧱 Designing Kubernetes platforms with **RKE2, EKS, GKE, AKS**
+- 🌩️ Architecting multi-cloud systems across **AWS / Azure / GCP**
+- ⚙️ Automating CI/CD pipelines with **GitHub Actions**
+- 📊 Building observability stacks with **Grafana, Prometheus, Loki, CloudWatch**
+- 🔐 Implementing security best practices (IAM, secrets rotation, SSO, least privilege)
+- 🧠 Building AI-powered DevOps workflows and automation tools
+
+---
+
+## 💼 Experience
+
+### Founding DevOps Engineer | Atom AI
+📍 Nairobi, Kenya | Oct 2025 – Present
+
+- Designed scalable AWS architecture using Terraform supporting Next.js and Python workloads (99.9% availability)
+- Built CI/CD pipelines using GitHub Actions, eliminating manual deployments
+- Architected secure VPC networking (public/private subnets, NAT, security groups)
+- Reduced database load by 60% using Redis (ElastiCache)
+- Deployed frontend via S3 + CloudFront, improving performance by 75%
+- Built FastAPI backend on ECS behind ALB with secure AWS integrations (RDS, S3, Secrets Manager)
+- Implemented ML workflows using SageMaker, Lambda, and API Gateway
+- Achieved 60% cost reduction using VPC endpoints and storage optimization strategies
+
+---
+
+### DevOps Engineer | Amarok Ultimate Perimeter Security
+📍 Alpharetta, GA | May 2024 – Present
+
+- Built custom Claude AI skills to accelerate DevOps workflows (Kubernetes ops, RDS monitoring, Terraform standards)
+- Led cloud cost optimization across RDS, Databricks, and compute workloads
+- Architected event-driven ECS producer/worker systems using SQS
+- Migrated RDS → Databricks Lakebase using EC2 + pg_dump
+- Implemented CDC pipelines using Databricks Auto CDC API
+- Managed 20+ AWS services (Lambda, ECS, ALB, CloudWatch, etc.)
+- Automated 80% of deployments using GitHub Actions + Argo CD
+- Improved observability coverage from 10% → 90%
+- Strengthened security using IAM least privilege, secret rotation, and SSO (Duo)
+- Built internal DevOps tools (AutoDoc, Kubernetes monitoring utilities)
+- Deployed observability stack (Prometheus, Grafana, Loki)
+- Enabled safe testing environments using MailHog in Kubernetes
+
+---
+
+### Full Stack Software Engineer | Moi University
+📍 Eldoret, Kenya | Jul 2022 – Dec 2023
+
+- Built full-stack applications using Node.js, C++, and modern web tools
+- Applied software engineering fundamentals (OOP, data structures, system design basics)
+- Worked on Dockerized applications and deployment workflows
+- Strengthened problem-solving through production-like projects
+
+---
+
+## 🧰 Tech Stack
+
+**Cloud & DevOps**
+AWS | Azure | GCP | Kubernetes | Docker | Terraform | Helm | Argo CD | GitHub Actions
+
+**Programming**
+Python | Go | JavaScript | Node.js | .NET | C#
+
+**Observability**
+Prometheus | Grafana | Loki | CloudWatch
+
+**Data & Platforms**
+Databricks | Redis | PostgreSQL | S3 | Lambda | ECS | API Gateway
+
+**Frontend**
+React | Next.js | Angular
+
+**Other**
+Linux | CI/CD | Infrastructure as Code | Security | AI Automation
+
+---
+
+## 📦 Featured Projects
+
+### Multi-Cloud Go API (Production-Ready System)
+- Containerized Go backend with PostgreSQL + migrations
+- Multi-cloud CI/CD pipelines (AWS, Azure, GCP)
+- Terraform-based infrastructure (EKS/GKE/AKS)
+- Kubernetes deployment with health checks and config management
+
+---
+
+### Event-Driven Serverless Microservices (AWS)
+- Built distributed system using Lambda, SQS, EventBridge
+- Fully decoupled event-driven architecture
+- Terraform-managed infrastructure
+- Designed for scalability and fault tolerance
+
+---
+
+### GitOps Kubernetes Platform (Argo CD + Helm)
+- GitOps-based deployment system with full environment separation
+- CI/CD integration using Argo CD
+- Observability stack (Prometheus, Grafana, Loki)
+- Production-grade Kubernetes workflows
+
+---
+
+## 🎓 Education
+
+**BSc Information Science**  
+Moi University | 2019 – 2024
+
+---
+
+## 📫 Contact
+
+- 📧 Email: ndegwajeff4@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/jeff-ndegwa-801593219/  
+- 🌐 Portfolio: https://jeff-ndegwa.vercel.app  
+- 💻 GitHub: https://github.com/jefta-jose  
+
 ---
