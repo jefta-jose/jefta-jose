@@ -36,20 +36,6 @@ Key impact areas:
 
 ## 💼 Experience
 
-### Founding DevOps Engineer | Atom AI
-📍 Nairobi, Kenya | Oct 2025 – Present
-
-- Designed scalable AWS architecture using Terraform supporting Next.js and Python workloads (99.9% availability)
-- Built CI/CD pipelines using GitHub Actions, eliminating manual deployments
-- Architected secure VPC networking (public/private subnets, NAT, security groups)
-- Reduced database load by 60% using Redis (ElastiCache)
-- Deployed frontend via S3 + CloudFront, improving performance by 75%
-- Built FastAPI backend on ECS behind ALB with secure AWS integrations (RDS, S3, Secrets Manager)
-- Implemented ML workflows using SageMaker, Lambda, and API Gateway
-- Achieved 60% cost reduction using VPC endpoints and storage optimization strategies
-
----
-
 ### DevOps Engineer | Amarok Ultimate Perimeter Security
 📍 Alpharetta, GA | May 2024 – Present
 
