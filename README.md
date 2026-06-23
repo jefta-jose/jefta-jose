@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jeff Ndegwa
 
-### Senior DevOps Engineer | Cloud-Native Architect | Automating Systems from Kenya
+### DevOps Engineer | Cloud-Native Architect | Automating Systems from Kenya
 
 > "What do you call two Mexicans playing basketball? Juan-on-juan."
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Professional Summary
 
-Results-oriented **DevOps Engineer with 5+ years of experience** designing, automating, and scaling cloud-native infrastructure across **AWS, Azure, and Google Cloud**.
+Results-oriented **DevOps Engineer with 2+ years of experience** designing, automating, and scaling cloud-native infrastructure across **AWS**.
 
 I specialize in building **reliable, secure, and cost-efficient systems** using Infrastructure as Code, Kubernetes, and CI/CD automation.
 
